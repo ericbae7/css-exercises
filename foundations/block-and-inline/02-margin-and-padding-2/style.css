@@ -13,18 +13,30 @@ body {
 .title {
   background: #e3f4ff;
   font-size: 16px;
+<<<<<<< HEAD
   padding: 8px;
+=======
+  padding: 6px;
+>>>>>>> 1156db3472d0bab3b07d271da1034dd1034a038b
 }
 
 .content {
   background: #e3f4ff;
+  padding: 10px;
 }
 
 .button-container {
   background: #e3f4ff;
+  margin: 10px auto;
+  text-align: center;
+  padding: 8px;
 }
 
 button {
   background: white;
   border: 1px solid #eee;
+  display: block;
+  margin: 4px auto;
+  margin-top: 0px;
+  padding: 8px;
 }
